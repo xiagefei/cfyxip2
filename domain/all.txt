@@ -28,6 +28,7 @@ biomaterials.ust.hk:443#教育域名 | 香港科大
 ln.edu.hk:443#教育域名 | 岭南大学
 www.ntu.edu.sg:443#教育域名 | 南洋理工
 www.ox.ac.uk:443#教育域名 | 牛津大学
+columbia.edu:443#教育域名 | 哥伦比亚
 www.researchgate.net:443#教育域名 | ResearchGate
 www.visa.cn:443#更多选择 | VISA中国
 www.visa.com.hk:443#更多选择 | VISA香港
@@ -37,12 +38,14 @@ openai.com:443#更多选择 | OpenAI
 investor.apple.com:443#更多选择 | Apple
 virtualcommtraining.verizon.com:443#更多选择 | Verizon
 1password.com:443#更多选择 | 1Password
-icook.hk:443#更多选择 | 爱料理香港
+paypal.com:443#更多选择 | PayPal
+loreal.com:443#更多选择 | 欧莱雅
 staticdelivery.nexusmods.com:443#更多选择 | NexusMods
 markmonitor.com:443#更多选择 | MarkMonitor
 www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 livescore.co.kr:443#更多选择 | LiveScore
+csgo.com:443#更多选择 | CSGO
 csgo.com:443#更多选择 | CSGO
 cloudflare.182682.xyz:443#更多选择 | WeTest
 bestcf.top:443#更多选择 | VPS789
