@@ -30,6 +30,15 @@ www.ntu.edu.sg:443#教育域名 | 南洋理工
 www.ox.ac.uk:443#教育域名 | 牛津大学
 columbia.edu:443#教育域名 | 哥伦比亚
 www.researchgate.net:443#教育域名 | ResearchGate
+ct.877774.xyz:443#按运营商 | 电信QMS
+ct.cloudflare.byoip.top:443#按运营商 | 电信Byoip
+dx.hhhhh.eu.org:443#按运营商 | 电信WuYa
+cu.877774.xyz:443#按运营商 | 联通QMS
+cu.cloudflare.byoip.top:443#按运营商| 联通Byoip
+lt.hhhhh.eu.org:443#按运营商 | 联通WuYa
+cmcc.877774.xyz:443#按运营商 | 移动QMS
+cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
+yd.hhhhh.eu.org:443#按运营商 | 移动WuYa
 www.visa.cn:443#更多选择 | VISA中国
 www.visa.com.hk:443#更多选择 | VISA香港
 usa.visa.com:443#更多选择 | VISA美国
@@ -47,13 +56,4 @@ virtualcommtraining.verizon.com:443#更多选择 | Verizon
 loreal.com:443#更多选择 | 欧莱雅
 cloudflare.182682.xyz:443#更多选择 | WeTest
 bestcf.top:443#更多选择 | VPS789
-ct.877774.xyz:443#更多选择 | 电信QMS
-cmcc.877774.xyz:443#更多选择 | 移动QMS
-cu.877774.xyz:443#更多选择 | 联通QMS
-dx.hhhhh.eu.org:443#更多选择 | 电信WuYa
-yd.hhhhh.eu.org:443#更多选择 | 移动WuYa
-lt.hhhhh.eu.org:443#更多选择 | 联通WuYa
-ct.cloudflare.byoip.top:443#更多选择 | 电信Byoip
-cm.cloudflare.byoip.top:443#更多选择 | 移动Byoip
-cu.cloudflare.byoip.top:443#更多选择 | 联通Byoip
 bestcf.030101.xyz:443#▲ 精选域名 | 5-15 | BestCF.pages.dev
