@@ -2,7 +2,7 @@ name: Update GitHub Client Versions
 
 on:
   schedule:
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update-versions:
@@ -34,7 +34,6 @@ jobs:
           from urllib3.util.retry import Retry
           from bs4 import BeautifulSoup
 
-          # 配置带重试机制的请求会话
           def get_session():
               session = requests.Session()
               retry = Retry(total=2, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
@@ -49,25 +48,27 @@ jobs:
                   response = session.get(url, headers=headers, timeout=10)
                   if response.status_code == 200:
                       tag = response.json().get('tag_name', '')
-                      if tag and tag.lower().startswith('v'):
-                          return tag[1:]
-                      return tag
+                      if tag:
+                          tag_lower = tag.lower()
+                          if tag_lower.startswith('v'):
+                              return tag[1:]
+                          return tag
               except Exception as e:
                   print(f"Error fetching {owner}/{repo}: {e}")
               return None
 
           def main():
-              # 1. 加载现有数据（防止丢失 API 异常的项目）
               version_data = {}
               file_path = 'client-ver.txt'
+              
               if os.path.exists(file_path):
                   with open(file_path, 'r', encoding='utf-8') as f:
                       for line in f:
                           if '|' in line:
-                              key, val = line.strip().split('|', 1)
-                              version_data[key] = val
+                              parts = line.strip().split('|', 1)
+                              if len(parts) == 2:
+                                  version_data[parts[0]] = parts[1]
 
-              # 2. 解析 index.html
               if not os.path.exists('index.html'):
                   print("index.html not found")
                   return
@@ -81,11 +82,9 @@ jobs:
                   return
 
               links = container.find_all('a', href=re.compile(r'github\.com/([^/]+)/([^/]+)'))
-              
               session = get_session()
               token = os.getenv('GH_TOKEN')
               
-              # 3. 遍历 HTML 链接进行更新
               for link in links:
                   href = link.get('href')
                   match = re.search(r'github\.com/([^/]+)/([^/]+)', href)
@@ -98,13 +97,10 @@ jobs:
                       new_version = get_latest_release(session, owner, repo, token)
                       
                       if new_version:
-                          # API 获取成功：新增或覆盖旧版本
                           version_data[repo_key] = new_version
                       else:
-                          # API 异常：如果字典里已经有该仓库，保持原样；如果没有，则不添加
-                          print(f"Skipping update for {repo_key} due to API error (keeping old data if exists)")
+                          print(f"Keeping existing or skipping {repo_key}")
 
-              # 4. 回写文件（按名称排序，保持文件整齐）
               if version_data:
                   with open(file_path, 'w', encoding='utf-8') as f:
                       for k in sorted(version_data.keys()):
