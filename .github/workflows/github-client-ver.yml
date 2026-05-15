@@ -1,7 +1,6 @@
 name: Update GitHub Client Versions
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
