@@ -20,7 +20,7 @@ udemy.com:443#企业域名 | Udemy
 saas.sin.fan:443#大佬维护 | MIYU
 skk.moe:443#大佬维护 | Sukka
 bestcf.030101.xyz:443#大佬维护 | MingYu
-cu.877774.xyz:443#大佬维护 | QMS
+cf.877774.xyz:443#大佬维护 | QMS
 cf.090227.xyz:443#大佬维护 | CMLiu
 cf.tencentapp.cn:443#大佬维护 | KTFF
 ip.cf.cname.vvhan.com:443#大佬维护 | vvHan
@@ -47,6 +47,9 @@ virtualcommtraining.verizon.com:443#更多选择 | Verizon
 loreal.com:443#更多选择 | 欧莱雅
 cloudflare.182682.xyz:443#更多选择 | WeTest
 bestcf.top:443#更多选择 | VPS789
+cmcc.877774.xyz:443#更多选择 | 移动QMS
+cu.877774.xyz:443#更多选择 | 联通QMS
+ct.877774.xyz:443#更多选择 | 电信QMS
 yd.hhhhh.eu.org:443#更多选择 | 移动WuYa
 lt.hhhhh.eu.org:443#更多选择 | 联通WuYa
 dx.hhhhh.eu.org:443#更多选择 | 电信WuYa
