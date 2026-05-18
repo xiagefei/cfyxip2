@@ -1,6 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-18 17:13 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-18 17:43 | YouTube@真香定律
 baka.fun:443#baka.fun
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
@@ -12,6 +11,7 @@ youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
