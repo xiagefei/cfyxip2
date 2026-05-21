@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 03:13 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 03:43 | YouTube@真香定律
 nexusmods.com:443#nexusmods.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
@@ -23,12 +23,13 @@ www.swowd.com:443#www.swowd.com
 play.mc.js.cool:443#play.mc.js.cool
 www.speedtest.net:443#www.speedtest.net
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+www.trumpinternationalrealty.com:443#www.trumpinternationalrealty.com
+liantong.19931101.xyz:443#liantong.19931101.xyz
 yyurl.cc:443#yyurl.cc
 saas.sin.fan:443#saas.sin.fan
 ct.877774.xyz:443#ct.877774.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfdl.3666888.xyz:443#cfdl.3666888.xyz
-test.509666.xyz:443#test.509666.xyz
 cf.553314.xyz:443#cf.553314.xyz
 openai.com:443#openai.com
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -48,5 +49,4 @@ zeas.top:443#zeas.top
 cdn.31514926.xyz:443#cdn.31514926.xyz
 vps.cheng2001.top:443#vps.cheng2001.top
 cdns.doon.eu.org:443#cdns.doon.eu.org
-ping.pe:443#ping.pe
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
