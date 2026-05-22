@@ -5,7 +5,7 @@ cloudflare-eth.com:443#官方域名 | ETH
 cloudflare.dev:443#官方域名 | Docs
 cloudflare.net:443#官方域名 | Business
 engage.cloudflareclient.com:443#官方域名 | WARP策略端点
-zero-trust-client.cloudflareclient.com:443#官方域名 | ZeroTrust策略端点
+gateway.cloudflareaccess.com:443#官方域名 | ZeroTrust策略端点
 api.cloudflareclient.com.com:443#官方域名 | WARP API
 pages.dev:443#官方域名 | Pages
 r2.dev:443#官方域名 | R2
