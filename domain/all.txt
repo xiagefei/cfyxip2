@@ -27,7 +27,7 @@ www.zendesk.com:443#更多选择 | Zendesk
 anadoluefes.com:443#更多选择 | AnadoluEfes
 virtualcommtraining.verizon.com:443#更多选择 | Verizon
 1password.com:443#更多选择 | 1Password
-csgo.com:443#更多选择 | CSGO
+epicgames.com:443#更多选择 | Epicgames
 ikea.com:443#更多选择 | 宜家IKEA
 loreal.com:443#更多选择 | 欧莱雅
 162.159.198.1:443#官方域名 | MASQUE流量端点
