@@ -1,0 +1,83 @@
+name: "Generate BestIP Update Log"
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 必须拉取完整历史
+
+      - name: 生成文件更新时间 JSON
+        run: |
+          # 定义排除路径的模式 (使用 | 分隔)
+          # 使用 | 可以在下方自由编写长变量，不用担心引号转义问题
+          EXCLUDE_PATTERN=$(cat <<EOF
+          \.github/workflows|
+          tiancheng/old/|
+          tiancheng2/old/|
+          report|
+          tools|
+          _headers|
+          404\.html|
+          client-ver\.txt|
+          favicon\.svg|
+          index\.html|
+          README\.md
+          EOF
+          )
+          # 把换行符替换为 grep 的 OR 符号 |
+          EXCLUDE_PATTERN=$(echo $EXCLUDE_PATTERN | tr -d '\n')
+          
+          # 临时输出文件
+          OUTPUT_FILE="bestip-date.json"
+          
+          # 开始生成数据
+          echo "[" > $OUTPUT_FILE
+          
+          # 获取文件列表并处理
+          # 1. 列出所有文件
+          # 2. 排除指定目录
+          # 3. 循环获取每个文件的最近提交时间
+          first=true
+          git ls-tree -r --name-only HEAD | grep -Ev "$EXCLUDE_PATTERN" | while read filename; do
+            # 获取最近一次提交时间并转换为北京时间
+            # %cI 输出 ISO 格式，TZ='Asia/Shanghai' 北京时间
+            last_date=$(TZ='Asia/Shanghai' git log -1 --format="%cI" -- "$filename")
+            
+            # 格式化 JSON 条目
+            if [ "$first" = true ]; then
+              first=false
+            else
+              echo "," >> $OUTPUT_FILE
+            fi
+            
+            # 写入 JSON 对象 (使用 jq 确保转义正确)
+            jq -n --arg name "$filename" --arg date "$last_date" \
+              '{file: $name, last_updated: $date}' >> $OUTPUT_FILE
+          done
+          
+          echo "]" >> $OUTPUT_FILE
+          
+          echo "✅ JSON 生成完毕:"
+          cat $OUTPUT_FILE
+
+      - name: 提交更新到仓库
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bestip-date.json
+          # 如果有变动则提交
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update bestip-date.json"
+            git push
+          else
+            echo "无变更，无需提交。"
+          fi
