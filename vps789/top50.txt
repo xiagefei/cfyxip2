@@ -1,9 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-25 05:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-25 06:14 | YouTube@真香定律
 store.ubi.com:443#store.ubi.com
+openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.nexusmods.com:443#www.nexusmods.com
-api.gzcrtw.com:443#api.gzcrtw.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -16,7 +16,6 @@ cdns.doon.eu.org:443#cdns.doon.eu.org
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 zeas.top:443#zeas.top
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
-openai.com:443#openai.com
 cdn.262832.xyz:443#cdn.262832.xyz
 dnew.cc:443#dnew.cc
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
@@ -41,6 +40,7 @@ sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
