@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-28 17:40 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-28 18:11 | YouTube@真香定律
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 openai.com:443#openai.com
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
@@ -11,7 +11,6 @@ cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.vastnovel.com:443#www.vastnovel.com
 bbs.alipansou.com:443#bbs.alipansou.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
@@ -40,6 +39,7 @@ www.mc.js.cool:443#www.mc.js.cool
 www.sage.com:443#www.sage.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
