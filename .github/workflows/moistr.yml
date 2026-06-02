@@ -158,9 +158,9 @@ jobs:
           # 5. 构建文件
           if [ "$SHOULD_COMMIT" = true ]; then
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
-            echo "saas.sin.fan:443#MoistR优选 | ${BJ_TIME} | BestCF.pages.dev" > "$TARGET_FILE"
+            echo "162.159.198.1:443#MoistR优选 | ${BJ_TIME} | BestCF.pages.dev" > "$TARGET_FILE"
             cat new_nodes.tmp >> "$TARGET_FILE"
-            echo "bestcf.030101.xyz:443#MoistR优选 | 分享免费优选网 BestCF.pages.dev" >> "$TARGET_FILE"
+            echo "162.159.197.1:443#MoistR优选 | 分享免费优选网 BestCF.pages.dev" >> "$TARGET_FILE"
             
             echo "COMMIT_TIME=$BJ_TIME" >> $GITHUB_ENV
             echo "changes_detected=true" >> $GITHUB_ENV
