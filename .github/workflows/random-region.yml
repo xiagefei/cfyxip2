@@ -101,6 +101,7 @@ jobs:
               country_map[country].add(line)
 
           mix_blocks = {}
+          mix_blocks2 = {}
 
           for country, lines_set in country_map.items():
               lines_list = list(lines_set)
@@ -109,30 +110,40 @@ jobs:
 
               random.shuffle(lines_list)
               mix_blocks[country] = lines_list[:5]
+              mix_blocks2[country] = lines_list[:10]
               folder_path = os.path.join(base_dir, country)
               os.makedirs(folder_path, exist_ok=True)
 
               with open(os.path.join(folder_path, "all.txt"), "w", encoding="utf-8") as f:
                   f.write("\n".join(lines_list) + "\n")
 
-              for count in [10, 20, 50]:
+              for count in [10, 20, 50, 100]:
                   sampled_lines = lines_list[:count]
                   with open(os.path.join(folder_path, f"{count}.txt"), "w", encoding="utf-8") as f:
                       f.write("\n".join(sampled_lines) + "\n")
 
           all_mix_lines = []
+          all_mix2_lines = []
           
           for country in country_order_dict.keys():
               if country in mix_blocks:
                   all_mix_lines.extend(mix_blocks[country])
+              if country in mix_blocks2:
+                  all_mix2_lines.extend(mix_blocks2[country])
           
           for country, lines in mix_blocks.items():
               if country not in country_order_dict:
                   all_mix_lines.extend(lines)
+          for country, lines in mix_blocks2.items():
+              if country not in country_order_dict:
+                  all_mix2_lines.extend(lines)
 
           if all_mix_lines:
               with open(os.path.join(base_dir, "mix.txt"), "w", encoding="utf-8") as f:
-                  f.write("\n".join(all_mix_lines) + "\n")
+                  f.write("\n".join(all_mix_lines) + "\n")     
+          if all_mix2_lines:
+              with open(os.path.join(base_dir, "mix2.txt"), "w", encoding="utf-8") as f:
+                  f.write("\n".join(all_mix2_lines) + "\n")
 
           country_list_lines = []
           if isinstance(country_order_dict, dict):
@@ -146,23 +157,18 @@ jobs:
           print("数据处理成功完成。")
           '
         
-      - name: 检查文件是否有变动
-        id: verify_changes
+      - name: 检查文件是否有变动并提交推送
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add random-region/
-          # 检查是否有文件落入暂存区
+          
           if git diff --cached --quiet; then
-            echo "changes_detected=false" >> $GITHUB_ENV
             echo "没有发现任何内容变动，跳过提交。"
           else
-            echo "changes_detected=true" >> $GITHUB_ENV
             echo "发现内容更新，准备推送库。"
+            git commit -m "random-region"
+            # 使用 pull --rebase 保障并发拉取时的绝对安全，最后推送
+            git pull --rebase origin ${GITHUB_REF##*/}
+            git push origin HEAD
           fi
-
-      - name: 提交并推送到仓库
-        if: env.changes_detected == 'true'
-        run: |
-          git commit -m "random-region"
-          git push
