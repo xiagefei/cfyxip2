@@ -15,7 +15,7 @@ jobs:
 
       - name: 请求订阅并追加广告行
         env:
-          TARGET_URL: ${{ vars.TARGET_URL }}
+          TARGET_URL: ${{ secrets.TARGET_URL }}
         run: |
           echo "开始请求目标链接..."
           
