@@ -42,6 +42,10 @@ jobs:
           
           cat raw_nodes.txt >> xinyitang3/ipv4.txt
           
+          if [ "$(tail -c1 xinyitang3/ipv4.txt)" != "" ]; then
+            echo "" >> xinyitang3/ipv4.txt
+          fi
+          
           echo "162.159.197.1:443#Mia优选 | 分享免费优选网 BestCF.pages.dev" >> xinyitang3/ipv4.txt
           
           echo "ipv4.txt 文件生成成功！"
