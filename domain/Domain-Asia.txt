@@ -4,6 +4,8 @@ deepin.org:443#亚洲域名 | 中国深度系统
 ubuntu.com.cn:443#亚洲域名 | 中国乌班图
 www.nestle.com.cn:443#亚洲域名 | 中国雀巢
 ir.yuntongxun.com:443#亚洲域名 | 中国容联
+fictiv.com:443#亚洲域名 | Fictiv
+woodsbagot.com:443#亚洲域名 | 伍兹贝格
 jebsen.com:443#亚洲域名 | 中国香港捷成
 www.aeon.com.hk:443#亚洲域名 | 中国香港永旺
 tomleemusic.com.hk:443#亚洲域名 | 中国香港通利
@@ -20,6 +22,8 @@ newsmarket.com.tw:443#亚洲域名 | 中国台湾上下游
 www.buy123.com.tw:443#亚洲域名 | 中国台湾帮客
 www.pcone.com.tw:443#亚洲域名 | 中国台湾披西玩
 104.com.tw:443#亚洲域名 | 中国台湾一零四
+lac.com.tw:443#亚洲域名 | 中国台湾LAC
+shopback.com.tw:443#亚洲域名 | 中国台湾返利
 www.airasia.com:443#亚洲域名 | 大马亚航
 www.allianz.com.my:443#亚洲域名 | 大马安联
 www.dbs.com:443#亚洲域名 | 新加坡星展
