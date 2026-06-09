@@ -13,7 +13,6 @@ digitalocean.com:443#企业域名 | DigitalOcean
 glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
 www.broadcom.com:443#企业域名 | 博通
-www.roche.com:443#企业域名 | 罗氏制药
 www.visa.cn:443#金融域名 | VISA中国
 www.visa.com.hk:443#金融域名 | VISA香港
 usa.visa.com:443#金融域名 | VISA美国
@@ -41,6 +40,7 @@ loreal.com:443#更多选择 | 欧莱雅
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
 homecare.stryker.com:443#更多选择 | 史赛克
 emerson.com:443#更多选择 | 艾默生
+www.roche.com:443#更多选择 | 罗氏制药
 polestar.com:443#更多选择 | 极星
 www.hyundai.com:443#更多选择 | 现代
 www.kia.com:443#更多选择 | 起亚
