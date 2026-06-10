@@ -9,14 +9,14 @@ serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.nestle.com:443#企业域名 | 雀巢集团
 www.allianz.com:443#企业域名 | 安联集团
 hongkongairport.com:443#企业域名 | 香港机场
+polestar.com:443#企业域名 | 极星汽车
+decathlon.com:443#企业域名 | 迪卡侬
 openai.com:443#企业域名 | OpenAI
 staticdelivery.nexusmods.com:443#企业域名 | NexusMods
 bluehost.com:443#企业域名 | BlueHost
 digitalocean.com:443#企业域名 | DigitalOcean
 glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
-decathlon.com:443#企业域名 | 迪卡侬
-www.broadcom.com:443#企业域名 | 博通
 www.visa.cn:443#金融域名 | VISA中国
 www.visa.com.hk:443#金融域名 | VISA香港
 usa.visa.com:443#金融域名 | VISA美国
@@ -35,6 +35,7 @@ affirm.com:443#更多选择 | Affirm
 www.zendesk.com:443#更多选择 | Zendesk
 anadoluefes.com:443#更多选择 | AnadoluEfes
 doordash.com:443#更多选择 | DoorDash
+www.broadcom.com:443#更多选择 | 博通
 www.lego.com:443#更多选择 | 乐高
 ikea.com:443#更多选择 | 宜家
 www.razer.com:443#更多选择 | 雷蛇
@@ -43,7 +44,6 @@ visit.honeywell.com:443#更多选择 | 霍尼韦尔
 homecare.stryker.com:443#更多选择 | 史赛克
 emerson.com:443#更多选择 | 艾默生
 www.roche.com:443#更多选择 | 罗氏制药
-polestar.com:443#更多选择 | 极星
 www.hyundai.com:443#更多选择 | 现代
 www.kia.com:443#更多选择 | 起亚
 carrefour.com:443#更多选择 | 家乐福
