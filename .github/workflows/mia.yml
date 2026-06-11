@@ -24,7 +24,7 @@ jobs:
             exit 1
           fi
           
-          if ! curl -sS -L -A "Clash" --retry 3 --retry-delay 3 '$XINYITANG3_URL' -o raw_nodes.txt; then
+          if ! curl -sS -L -A "Clash" --retry 3 --retry-delay 3 "$XINYITANG3_URL" -o raw_nodes.txt; then
             echo "错误：请求目标链接失败！"
             exit 1
           fi
