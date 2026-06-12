@@ -1,7 +1,7 @@
 162.159.198.1:443#EDT导航优选域名 | BestCF.pages.dev
-162.159.198.1:443#Endpoint | MASQUE
-162.159.197.1:443#Endpoint | ZeroTrust
-engage.cloudflareclient.com:443#Endpoint | WireGuard
+162.159.198.1:443#官方入口 | MASQUE
+162.159.197.1:443#官方入口 | ZeroTrust
+engage.cloudflareclient.com:443#官方入口 | WireGuard
 shopify.com:443#企业域名 | Shopify
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
@@ -23,11 +23,11 @@ www.epicgames.com:443#更多选择 | Epicgames
 mycareer.verizon.com:443#更多选择 | Verizon
 www.wto.org:443#更多选择 | WTO世贸
 affirm.com:443#更多选择 | Affirm
-fossilchina.cn:443#企业域名 | Fossil
+fossilchina.cn:443#更多选择 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
 doordash.com:443#更多选择 | DoorDash
 anadoluefes.com:443#更多选择 | AnadoluEfes
-digitalocean.com:443#企业域名 | DigitalOcean
+digitalocean.com:443#更多选择 | DigitalOcean
 mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
 www.broadcom.com:443#更多选择 | 博通
