@@ -13,7 +13,6 @@ decathlon.com:443#企业域名 | 迪卡侬
 openai.com:443#企业域名 | OpenAI
 staticdelivery.nexusmods.com:443#企业域名 | NexusMods
 bluehost.com:443#企业域名 | BlueHost
-digitalocean.com:443#企业域名 | DigitalOcean
 glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
 www.visa.cn:443#金融域名 | VISA中国
@@ -32,6 +31,7 @@ affirm.com:443#更多选择 | Affirm
 www.zendesk.com:443#更多选择 | Zendesk
 doordash.com:443#更多选择 | DoorDash
 anadoluefes.com:443#更多选择 | AnadoluEfes
+digitalocean.com:443#企业域名 | DigitalOcean
 mskcc.org:443#更多选择 | MSKCC
 www.wto.org:443#更多选择 | WTO世贸
 w3.org:443#更多选择 | W3C万维
