@@ -49,6 +49,7 @@ cnllm.com
 laitemi.com
 saas.sin.fan
 1.cf.3666888.xyz
+kniu.cc
 01-cctv.com
 play.mc.js.cool
 cmcc.090227.xyz
@@ -57,16 +58,13 @@ cf.tencentapp.cn
 blog.raindew.576555.xyz
 www.adbcardpay.xyz
 99.co
-www.vmware.com
 m.iyf.tv
-www.habia.com
 cf.affection.dpdns.org
 cf.998866.top
 test.509666.xyz
 china.mfa.gov.ua
 c-power.com.cn
 seo.07yue.com
-kniu.cc
 nas.chinwa.eu.cc
 www.gov.il
 www.carousell.sg
@@ -86,7 +84,6 @@ yx.cf.090227.xyz
 www.visa.com
 flightradar24.com
 linear.app
-www.cancilleria.gov.co
 hlevakha.gov.ua
 bitsight.com
 sharray.net
@@ -98,7 +95,7 @@ www.trumpgolf.com
 api.gzcrtw.com
 cfip.1323123.xyz
 gitlab.com
-www.hugedomains.com
+www.cancilleria.gov.co
 form.assaabloy.com
 jquery.com
 w3.org
@@ -110,6 +107,7 @@ cf.0662.sld.tw
 cf-cname.xingpingcn.top
 chat.hashi.sbs
 aandd.co.jp
+www.hugedomains.com
 tinyurl.com
 www.redboxtools.com
 www.timbuktutravel.com
@@ -122,7 +120,6 @@ wallpaperflare.com
 www.visa.cn
 aqua-aria.company
 www.whoer.net
-859ct.cc
 www.jsdelivr.com
 codeforces.com
 www.5h.com
@@ -131,16 +128,16 @@ carpt.net
 helium.computer
 cm.edu.kg
 cdns.doon.eu.org
-gateway.ipfsscan.io
+qualitytraining.zeiss.com
 www.crazygames.fr
 qocu.cf.3666888.xyz
 3.cf.3666888.xyz
 cmcc.cc.cd
+gateway.ipfsscan.io
 virtualcommtraining.verizon.com
-qualitytraining.zeiss.com
-avido.cf.3666888.xyz
 1.cloudflare.19931110.xyz
 gh-proxy.com
+bestbuyfillers.com
 pwjbl.me
 cdn.cf.3666888.xyz
 cfvip.cf.3666888.xyz
@@ -150,6 +147,7 @@ liantong.19931101.xyz
 athome.com
 cfyx.aliyun.20237737.xyz
 hk.cf.3666888.xyz
+avido.cf.3666888.xyz
 cf-ip-node.vov.moe
 so.360832.xyz
 store.ubisoft.com
@@ -176,6 +174,7 @@ support.communilink.net
 youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz
 4.cf.3666888.xyz
+5.cf.3666888.xyz
 china-unicom.cname.cloudflare.468123.xyz
 redis.io
 constitution.congress.gov
@@ -194,7 +193,8 @@ a.lma.de5.net
 cf.cf.3666888.xyz
 2.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
-5.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
 mox.moxing.lol
 shanghai.mfa.gov.ua
+ctsg.cfyx.aliyun.20237737.xyz
+prompt.gzcrtw.com
