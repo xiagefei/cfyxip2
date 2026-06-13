@@ -19,6 +19,7 @@ cfip-ct.stoeaves.us.ci
 nexusmods.com
 a.lma.de5.net
 www.galgamex.net
+athome.com
 staticdelivery.nexusmods.com
 eii.at
 www.swowd.com
@@ -90,7 +91,6 @@ cloudflare.cfgo.cc
 yxip.xxxxxxxx.tk
 yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
-www.sofi.com
 cdn.31514926.xyz
 8.cf.3666888.xyz
 cf.v8.longsays.com
@@ -100,6 +100,7 @@ adnjv.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 test.509666.xyz
 cdn.2158.cc
+www.sofi.com
 cfip-cu.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
 www.mlkj888.com
@@ -119,7 +120,6 @@ ddk.cfyx.20237737.xyz
 networksolutions.com
 www.6i5.com
 china-telecom.cname.cloudflare.468123.xyz
-athome.com
 www.visa.com.tw
 www.visa.com.hk
 www.5199dy.com

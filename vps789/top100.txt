@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 06-14 06:38 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 06-14 07:08 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
@@ -20,6 +20,7 @@ cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 nexusmods.com:443#VPS789优选 | nexusmods.com
 a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
+athome.com:443#VPS789优选 | athome.com
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 eii.at:443#VPS789优选 | eii.at
 www.swowd.com:443#VPS789优选 | www.swowd.com
@@ -91,7 +92,6 @@ cloudflare.cfgo.cc:443#VPS789优选 | cloudflare.cfgo.cc
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
-www.sofi.com:443#VPS789优选 | www.sofi.com
 cdn.31514926.xyz:443#VPS789优选 | cdn.31514926.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
