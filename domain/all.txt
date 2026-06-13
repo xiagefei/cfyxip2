@@ -26,6 +26,7 @@ fossilchina.cn:443#更多选择 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
 doordash.com:443#更多选择 | DoorDash
 anadoluefes.com:443#更多选择 | AnadoluEfes
+cookiebot.com:443#更多选择 | Cookiebot
 digitalocean.com:443#更多选择 | DigitalOcean
 mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
