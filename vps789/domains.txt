@@ -40,6 +40,7 @@ laitemi.com
 edgeone.gh-proxy.org
 mogas.com
 yg9.ygkkk.dpdns.org
+yg11.ygkkk.dpdns.org
 www.shopify.com
 cdn.204910.best
 cdn.262832.xyz
@@ -50,7 +51,6 @@ avido.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
-yg11.ygkkk.dpdns.org
 baka.fun
 www.giannidelprete.it
 coke.cf.3666888.xyz
@@ -82,15 +82,17 @@ f.lma.de5.net
 cdn.cf.3666888.xyz
 kniu.cc
 cdn.091224.xyz
-cfgo.timelate.com
 01-qq.com
 dongbanghong.com
 www.mc.js.cool
+aistudio.zabc.net
 cloudflare.cfgo.cc
 yxip.xxxxxxxx.tk
+youxuan.cf.3666888.xyz
 youxuan.cf.636949.xyz
 yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
+cfgo.timelate.com
 cdn.31514926.xyz
 8.cf.3666888.xyz
 www.sage.com
@@ -110,7 +112,6 @@ cmcc.cc.cd
 api.gzcrtw.com
 www.ox.ac.uk
 www.leics.police.uk
-youxuan.cf.3666888.xyz
 visa.com.tw
 jp.cf.3666888.xyz
 www.speedtest.net
@@ -130,9 +131,7 @@ so.360832.xyz
 www.xflash.vip
 chrono24.com
 cf.nyanya.moe
-www.ntu.edu.sg
 china-mobile.cname.cloudflare.468123.xyz
-aistudio.zabc.net
 iili.io
 cmcc.877774.xyz
 bestcfv4.030101.xyz
@@ -152,17 +151,17 @@ www.gov.il
 cfyx.ip.du0.org
 cf.78607323.xyz
 vps.cheng2001.top
+www.ntu.edu.sg
 www.epicgames.com
 yong.880805.xyz
 stlouiscountymo.gov
 virtualcommtraining.verizon.com
-hubspot.com
 sharray.net
-zoominfo.com
 grass.io
 nrt.xxxxxxxx.nyc.mn
 cmcc.vvvv.ee
 www.dentoncounty.gov
+zoominfo.com
 www.lbl.gov
 cf1.v8.longsays.com
 api.cloudflare.com
@@ -186,7 +185,6 @@ ncc.gov.ng
 dynadot.com
 www.postman.com
 www.stayaka.com
-www.ventusky.com
 www.petronaftco.com
 d.lma.de5.net
 cf.998866.top
@@ -198,3 +196,5 @@ hy.aaw.qzz.io
 www.visa.cn
 i.111666.best
 gateway.ipfsscan.io
+t.213891.xyz
+ovpnspider.com
