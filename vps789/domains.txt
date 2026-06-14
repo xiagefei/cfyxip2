@@ -4,6 +4,7 @@ cdns.doon.eu.org
 kuaidianlian.com.cn
 bbs.alipansou.com
 snipaste5.speedip.eu.org
+bestcfv4.030101.xyz
 cdn.091224.xyz
 gh-proxy.com
 eii.at
@@ -12,10 +13,10 @@ youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz
 www.swowd.com
 cfip-avg.stoeaves.us.ci
+cloudflare.idc.rocks
 www.akasantech.com
 cu.877774.xyz
 nexusmods.com
-cloudflare.idc.rocks
 www.mc.js.cool
 sanwang.cf.3666888.xyz
 7.cf.3666888.xyz
@@ -25,6 +26,7 @@ play.mc.js.cool
 store.epicgames.com
 2.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
+cnllm.com
 cmcc.cc.cd
 www.sloomb.com
 cdn.2020111.xyz
@@ -66,7 +68,6 @@ www.galgamex.net
 baka.fun
 www.xiaoshuofen.com
 www.cdzxdz.com
-cnllm.com
 imooo.de
 zeas.top
 dongbanghong.com
@@ -85,6 +86,7 @@ dnew.cc
 8.cf.3666888.xyz
 cdn.2158.cc
 kniu.cc
+www.mlkj888.com
 so.360832.xyz
 01-cctv.com
 cdn.31514926.xyz
@@ -102,7 +104,7 @@ www.sage.com
 a.lma.de5.net
 cdn.cf.3666888.xyz
 keji.cf.3666888.xyz
-www.mlkj888.com
+eteaf.cf.3666888.xyz
 01-qq.com
 cf.v8.longsays.com
 vip.cf.3666888.xyz
@@ -114,15 +116,13 @@ www.giannidelprete.it
 www.visa.com
 yxip.xxxxxxxx.tk
 cfip-cm.stoeaves.us.ci
-bestcfv4.030101.xyz
 www.5199dy.com
-eteaf.cf.3666888.xyz
 my.dnshe.com
 cloudflare.468123.xyz
 dianxin.19931101.xyz
 cfip-cu.stoeaves.us.ci
-visa.com
 www.6i5.com
+visa.com
 www.visa.com.tw
 stlouiscountymo.gov
 www.5h.com
@@ -152,18 +152,20 @@ cf.727672.xyz
 www.yutank.com
 redis.io
 cdn.555586.xyz
-china-telecom.cname.cloudflare.468123.xyz
 www.visa.com.hk
 www.visa.cn
 ping.pe
 www.epicgames.com
 cmcc.877774.xyz
 run.254301.xyz
-seo.07yue.com
 nrt.xxxxxxxx.nyc.mn
 cf.tencentapp.cn
 virtualcommtraining.verizon.com
+jobsdb.com
+seo.07yue.com
+china-telecom.cname.cloudflare.468123.xyz
 jellyfin.roddy.eu.cc
+cfplus.255520.xyz
 cf.78607323.xyz
 tt.78607323.xyz
 prizepicks.com
@@ -179,7 +181,6 @@ linkvertise.com
 liantong.19931101.xyz
 cdn.ddeed.de
 dynadot.com
-jobsdb.com
 china.mfa.gov.ua
 yg3.ygkkk.dpdns.org
 www.ntu.edu.sg
@@ -197,4 +198,3 @@ api.cloudflare.com
 encryptedsni.com
 resources.biginterview.com
 cfdl.3666888.xyz
-www.bangbenjiaju.com
