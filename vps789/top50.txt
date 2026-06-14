@@ -1,8 +1,9 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-15 06:38 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-15 07:09 | BestCF.pages.dev
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
+cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
@@ -33,7 +34,6 @@ cnllm.com:443#VPS789优选 | cnllm.com
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
-cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
