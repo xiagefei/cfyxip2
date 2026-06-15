@@ -33,3 +33,4 @@ vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4
 yanue/v2rayu|4.2.8
 zero-peak/ZeroOmega|3.5.0
+test/test|1.0.0|2026-06-16
