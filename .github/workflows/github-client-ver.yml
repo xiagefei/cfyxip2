@@ -141,4 +141,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add client-ver.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update client versions [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "update client versions" && git push)
