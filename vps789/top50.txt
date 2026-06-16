@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-16 15:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-16 16:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
@@ -8,11 +8,12 @@ www.sloomb.com:443#VPS789优选 | www.sloomb.com
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 01-qq.com:443#VPS789优选 | 01-qq.com
+store.ubi.com:443#VPS789优选 | store.ubi.com
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
-kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
+kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
@@ -25,7 +26,6 @@ eii.at:443#VPS789优选 | eii.at
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
-store.ubi.com:443#VPS789优选 | store.ubi.com
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 nexusmods.com:443#VPS789优选 | nexusmods.com
