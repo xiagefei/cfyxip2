@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-16 07:39 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-16 08:09 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 store.ubi.com:443#VPS789优选 | store.ubi.com
@@ -15,6 +15,7 @@ www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
+cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
@@ -35,7 +36,6 @@ www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
-cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
