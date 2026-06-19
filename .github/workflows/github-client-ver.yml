@@ -82,7 +82,9 @@ jobs:
                 "kenzok8/openwrt-packages",
                 "bcseputetto/Are-u-ok",
                 "zero-peak/ZeroOmega",
+                "MetaCubeX/Yacd-meta",
                 "metacubex/metacubexd",
+                "Zephyruso/zashboard",
                 "2dust/v2rayn"
             }
               
